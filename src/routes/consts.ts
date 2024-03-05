@@ -1,0 +1,8 @@
+export const LOGIN_ROUTE = '/login'
+export const HOMEPAGE_ROUTE = '/home'
+export const PROFILE_ROUTE = '/profile/:uid'
+export const REGISTRATION_ROUTE = '/registration'
+export const FORGETPASSWORD_ROUTE = '/forget-password'
+export const SEARCHPAGE_ROUTE = '/search'
+export const MESSAGES_ROUTE = '/messages'
+export const EDITPROFILE_ROUTE = '/profile/edit'
